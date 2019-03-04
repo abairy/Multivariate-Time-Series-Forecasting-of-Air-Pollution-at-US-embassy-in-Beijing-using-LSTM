@@ -23,3 +23,4 @@ Is: Cumulated hours of snow
 Ir: Cumulated hours of rain
 
 Download Dataset and run the LSTM.py file
+for Multiple lag time steps run Multiple_lag_LSTM.py
